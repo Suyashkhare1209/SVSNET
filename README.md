@@ -1,7 +1,9 @@
 # 🧠 SVSNet: Scalable Vision for Stress Detection using Multimodal Physiological Signals
 
 ![Status](https://img.shields.io/badge/Manuscript-Minor%20Revision-brightgreen)
+
 ![Journal](https://img.shields.io/badge/Journal-Biomedical%20Signal%20Processing%20and%20Control-blue)
+
 ![Indexing](https://img.shields.io/badge/Index-SCI%20%7C%20Q1-orange)
 
 ---
