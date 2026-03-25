@@ -114,7 +114,7 @@ The repository includes:
 
 ## ⚙️ How to Run
 1. Clone the repo
-git clone https://github.com/Suyashkhare1209/SVSNET-.git
+git clone https://github.com/Suyashkhare1209/SVSNET.git
 and cd SVSNET
 2. Install dependencies
 pip install torch numpy matplotlib scikit-learn
